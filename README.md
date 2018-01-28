@@ -7,3 +7,5 @@ A habit takes 66 days until it is integrated into the daily ritual of a person. 
 our Mobile App will teach and navigate users (adults and children) to find ways to improve their dental hygiene and thus, 
 form healthy habits, which will improve dental health and overall health. 
 For children, forming dental hygiene habits will prevent the formation of deeper dental problems.
+
+Whoop Whoop!
